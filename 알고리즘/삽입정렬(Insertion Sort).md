@@ -1,4 +1,4 @@
-# 삽입정렬(Bubble Sort) 
+# 삽입정렬(Insertion Sort) 
 
 <br>
 
