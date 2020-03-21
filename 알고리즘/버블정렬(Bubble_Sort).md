@@ -31,6 +31,8 @@ def bubble_sort(array):
 print(bubble_sort([1,10,5,8,7,6,4,3,2,9]))
 ```
 
+<br>
+
 ## GIF로 이해하기
 ![Bubble_Sort](https://user-images.githubusercontent.com/48934537/77142476-8e7dd680-6ac3-11ea-81ef-5588fb80efcc.gif)
 
