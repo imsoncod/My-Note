@@ -15,7 +15,7 @@
 <br>
 
 ## ⭐Data structure
-- [스택(Stack)vs큐(Queue)](https://github.com/imsoncod/My-Note/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D(Stack)%20vs%20%ED%81%90(Queue).md)
+- [스택(Stack) vs 큐(Queue)](https://github.com/imsoncod/My-Note/blob/master/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D(Stack)%20vs%20%ED%81%90(Queue).md)
 
 <br>
 
