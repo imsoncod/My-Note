@@ -4,13 +4,13 @@
 
 ## 정의
 
-* 스택 : 나중에 들어온 데이터가 먼저 나가는 후입선출(LIFO : Last In First Out)형 자료구조
+* 스택 : 나중에 들어온 데이터가 먼저 나가는 **후입선출(LIFO : Last In First Out)** 형 자료구조
 
   * 관련 용어 : Push, Pop, Top, Overflow, Underflow
 
   * ex) 문서작업중 Ctrl+Z, 브라우저 뒤로가기, 택배 상하차
 
-* 큐 : 먼저 들어온 데이터가 먼저 나가는 선입선출(FIFO : First In First Out)형 자료구조
+* 큐 : 먼저 들어온 데이터가 먼저 나가는 **선입선출(FIFO : First In First Out)** 형 자료구조
 
   * 관련 용어 : Enqueue, Dequeue, Rear, Front, Peek
 
