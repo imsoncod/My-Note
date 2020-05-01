@@ -35,3 +35,8 @@
 
 ## ⭐Spring Framework
 - [스프링 기초(Spring Basic)](https://github.com/imsoncod/Basic-Spring/blob/master/README.md)
+
+<br>
+
+## ⭐이력서
+- [자기소개서 작성 Tip](https://github.com/imsoncod/My-Note/blob/master/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C%20%EC%9E%91%EC%84%B1%20Tip.md)
