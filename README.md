@@ -38,5 +38,11 @@
 
 <br>
 
+## ⭐기타
+- [Ubuntu 톰캣 환경 설정.md](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/Ubuntu%20%ED%86%B0%EC%BA%A3%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95.md)
+- [Ubuntu FTP & Filezilla.md](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/Ubuntu%20FTP%20%26%20Filezilla.md)
+
+<br>
+
 ## ⭐이력서
 - [자기소개서 작성 Tip](https://github.com/imsoncod/My-Note/blob/master/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C%20%EC%9E%91%EC%84%B1%20Tip.md)
