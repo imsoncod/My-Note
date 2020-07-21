@@ -6,7 +6,7 @@
 
 * HTTP(Hypertext Transfer Protocol)
 
-  * 웹서버와 웹브라우저 사이에 문서를 전송하기 위한 프로토콜
+  * 웹서버와 웹브라우저 사이에 데이터를 전송하기 위한 프로토콜
 
 * HTTPS(Hypertest Transfer Protocol Securesocket)
 
