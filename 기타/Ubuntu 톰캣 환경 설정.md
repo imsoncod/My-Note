@@ -42,6 +42,8 @@
 
 * $JAVA_HOME/bin/javac -version
 
+<br>
+
 ## 톰캣 설치 및 포트설정
 
 * sudo apt-get install tomcat8
