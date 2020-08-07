@@ -46,6 +46,7 @@
 <br>
 
 ## ⭐기타
+- [API란?](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/API%EB%9E%80%3F.md)
 - [Rest, Restful, Rest API](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/Rest%2C%20Restful%2C%20Rest%20API.md)
 - [Ubuntu 톰캣 환경 설정](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/Ubuntu%20%ED%86%B0%EC%BA%A3%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95.md)
 - [Ubuntu FTP & Filezilla](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/Ubuntu%20FTP%20%26%20Filezilla.md)
