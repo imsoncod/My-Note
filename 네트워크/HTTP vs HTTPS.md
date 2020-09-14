@@ -10,7 +10,9 @@
 
 * HTTPS(Hypertest Transfer Protocol Securesocket)
 
-  * HTTP에 **Secure Socket**을 추가하여 보안 취약점을 해결하기 위한 프로토콜
+  * HTTP에 **SSL(Secure Socket Layer)** 을 추가하여 보안 취약점을 해결하기 위한 프로토콜
+  
+    `SSL 인증서 : 클라이언트와 서버간의 통신을 제3자(CA : 인증된 기관)가 보증해주는 전자화된 문서`
   
   * 서버와 클라이언트 사이의 모든 내용이 암호화된다
 
