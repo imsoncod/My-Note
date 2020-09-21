@@ -53,3 +53,17 @@
 * sudo ufw allow 8080/tcp
 
 * sudo service tomcat8 start / stop
+
+<br>
+
+## 톰캣 webapps 접근 권한 설정
+
+* sudo su (관리자 권한 흭득)
+
+* chmod -R 777 /var/lib/tomcat8/webapps/
+
+* chown -R tomcat8:tomcat8 /var/lib/tomcat8/webapps/
+
+* service tomcat8 stop
+
+* service tomcat8 start
