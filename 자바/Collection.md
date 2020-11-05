@@ -99,7 +99,11 @@ List 인터페이스를 상속받은 클래스
 <br>
 
 ```
-ArrayList는 데이터의 조회가 빈번할 때, LinkedList는 데이터의 삽입/삭제가 빈번할 때 사용한다
+Trade Off
+
+ArrayList : 데이터의 조회가 빈번할 때 사용
+
+LinkedList : 데이터의 삽입/삭제가 빈번할 때 사용한다
 ```
 
 <br>
