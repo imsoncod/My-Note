@@ -10,6 +10,8 @@
 
 ## JRE, JDK 설치
 
+* sudo apt-get update
+
 * sudo apt-get install openjdk-8-jre
 
 * sudo apt-get install openjdk-8-jdk
@@ -17,6 +19,10 @@
 <br>
 
 ## JAVA 환경변수 설정
+
+* which javac
+
+* readlink -f /usr/bin/javac
 
 * sudo nano /etc/profile
 
@@ -27,7 +33,7 @@
   * 맨 아래에 입력
   
     ```
-    export JAVA_HOME=/usr/lib/jvm/java-9-openjdk-amd64
+    export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
     export PATH=$JAVA_HOME/bin/:$PATH
     export CLASS_PATH=$JAVA_HOME/lib:$CLASS_PATH
     ```
