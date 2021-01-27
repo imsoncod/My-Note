@@ -56,6 +56,7 @@
 
 ## ⭐Docker
 - [Docker란?](https://github.com/imsoncod/My-Note/blob/master/Docker/Docker%EB%9E%80%3F.md)
+- [Docker 컨테이너, 이미지 삭제 방법](https://github.com/imsoncod/My-Note/blob/master/Docker/Docker%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%2C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%82%AD%EC%A0%9C%20%EB%B0%A9%EB%B2%95.md)
 
 <br>
 
