@@ -72,6 +72,7 @@
 - [Ubuntu FTP & Filezilla](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/Ubuntu%20FTP%20%26%20Filezilla.md)
 - [FCM](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/FCM.md)
 - [MSA(Microservice Architecture)란?](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/MSA(Microservice%20Architecture)%EB%9E%80%3F.md)
+- [Bastion host란?](https://github.com/imsoncod/My-Note/blob/master/%EA%B8%B0%ED%83%80/Bastion%20Host%EB%9E%80%3F.md)
 
 <br>
 
